@@ -30,14 +30,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.3 
-  image_picker: ^0.8.5+3
-  pdf: ^3.6.0  # Add the pdf package for PDF generation
   path_provider: ^2.0.10 
-  lottie: ^2.2.0 
-  csv: ^5.0.0
   shared_preferences: ^2.0.15
-  carousel_slider: ^4.0.0
+  carousel_slider: ^5.0.0
+  csv: ^6.0.0
+  http: ^1.2.2
+  image_picker: ^1.1.2
+  lottie: ^3.1.2
+  pdf: ^3.11.1
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -47,7 +47,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: ^0.11.0
+  flutter_launcher_icons: ^0.14.1
 
 flutter_icons:
   android: true
